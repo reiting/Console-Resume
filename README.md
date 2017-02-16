@@ -146,11 +146,3 @@ My Skills:
 `````````````````````````
 
 P.S. One of those skills is not true
-
-## Submission
-
-When you are finished, zip up the folder containing your index.html
-
-and .js file and send it to me on Slack.
-
-* To zip up a folder, right click on it in Finder and select Compress.
